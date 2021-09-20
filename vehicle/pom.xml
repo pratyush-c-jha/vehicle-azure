@@ -51,13 +51,6 @@
 	<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-actuator</artifactId>
  	</dependency>
- 	<dependency>
-        <groupId>com.microsoft.azure</groupId>
-        <artifactId>applicationinsights-web-auto</artifactId>
-        <!-- or applicationinsights-web for manual web filter registration -->
-        <!-- or applicationinsights-core for bare API -->
-        <version>2.6.2</version>
-      </dependency>
 	</dependencies>
 
 	<build>
